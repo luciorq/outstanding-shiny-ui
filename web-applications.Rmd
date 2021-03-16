@@ -72,7 +72,7 @@ Where is the `index.html` file? It is actually created on the fly when you run `
 mentioned later in this chapter. 
   
 ## Serving web apps
-In order to expose our app to the rest of the world, we have to host is somewhere, that is a web server. 
+In order to expose our app to the rest of the world, we have to host it somewhere, that is a web server. 
 A server actually corresponds to:
 
   - A __hardware__ layer, namely the machine or virtual machine able to run programs. Most of servers are running
